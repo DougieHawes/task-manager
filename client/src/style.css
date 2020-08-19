@@ -1,0 +1,31 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+}
+
+.app {
+  color: #1a1110;
+  font-family: "Mulish", sans-serif;
+  height: 100vh;
+}
+
+.app .route-box {
+  background-color: #f8f8f8;
+  padding: 7px 3%;
+}
+
+.app .route-box .route-toggler {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
+  margin-bottom: 14px;
+}
+
+.app .route-box .route-toggler .log-toggler,
+.app .route-box .route-toggler .rewards-toggler {
+  font-size: 42px;
+  text-align: center;
+}
+/*# sourceMappingURL=style.css.map */

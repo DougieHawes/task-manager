@@ -1,0 +1,25 @@
+.logs .log-item {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 45% 45% 10%;
+      grid-template-columns: 45% 45% 10%;
+  margin: 14px 2%;
+  border: 3px solid teal;
+  padding: 4px 12px;
+}
+
+.logs .log-item .column-two {
+  text-align: right;
+}
+
+.logs .log-item .column-three .item-button {
+  background-color: teal;
+  border: none;
+  color: #f8f8f8;
+  cursor: pointer;
+  font-size: 35px;
+  height: 100%;
+  margin-left: 7px;
+  width: 100%;
+}
+/*# sourceMappingURL=style.css.map */

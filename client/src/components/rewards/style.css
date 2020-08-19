@@ -1,0 +1,40 @@
+.rewards .reward-items {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: flex;
+      flex-wrap: flex;
+  display: flex;
+  flex-wrap: flex;
+}
+
+.rewards .reward-items .reward-item {
+  border: 3px solid teal;
+  height: 297px;
+  margin: 14px 2%;
+  padding: 4px;
+  position: relative;
+  width: 210px;
+}
+
+.rewards .reward-items .reward-item .details-box {
+  text-align: center;
+}
+
+.rewards .reward-items .reward-item .button-box {
+  bottom: 0;
+  margin: 14px 2%;
+  position: absolute;
+  width: 91%;
+}
+
+.rewards .reward-items .reward-item .button-box .item-button {
+  background-color: teal;
+  border: none;
+  color: #f8f8f8;
+  cursor: pointer;
+  font-size: 35px;
+  height: 100%;
+  width: 100%;
+}
+/*# sourceMappingURL=style.css.map */

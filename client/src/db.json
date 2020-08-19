@@ -1,0 +1,38 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Clean hacking stations",
+      "attention": false,
+      "date": "08-08-2020",
+      "doer": "Dougie Hawes"
+    },
+    {
+      "id": 2,
+      "message": "Buy new heart-shaped glasses",
+      "attention": true,
+      "date": "08-08-2020",
+      "doer": "Darelene Alderson"
+    },
+    {
+      "id": 3,
+      "message": "Buy coffee",
+      "attention": true,
+      "date": "09-08-2020",
+      "doer": "Dougie Hawes"
+    },
+    {
+      "id": 4,
+      "message": "Walk around moodily with your hoodie up",
+      "attention": false,
+      "date": "10-08-2020",
+      "doer": "Elliot Alderson"
+    }
+  ],
+  "rewards": [
+    { "id": 1, "name": "starbucks card of £1000 value", "value": 5 },
+    { "id": 2, "name": "rights to the swivel chair for a week", "value": 10 },
+    { "id": 3, "name": "coffee served for a morning", "value": 3 },
+    { "id": 4, "name": "a bottle of prozac", "value": 12 }
+  ]
+}

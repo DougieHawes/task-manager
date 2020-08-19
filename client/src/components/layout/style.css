@@ -1,0 +1,18 @@
+.navbar {
+  background-color: teal;
+  color: #f8f8f8;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 7px 3%;
+  width: 100%;
+}
+
+.navbar .search-box .search {
+  height: 35px;
+  width: 280px;
+}
+/*# sourceMappingURL=style.css.map */
